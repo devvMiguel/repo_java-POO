@@ -52,7 +52,7 @@ public class Program {
 		value = sc.nextDouble();
 		account.withdraw(value);
 		
-		System.out.println("Updated account data:");
+		System.out.println("Updated account data");
 		System.out.println(account.toString());
 		
 		sc.close();

@@ -18,6 +18,6 @@ Cada pasta/arquivo contém a resolução de um exercício específico. Exemplos:
 - `uri1001`, `uri1002`, ...  
 
 ## Objetivo
-Servir como material de estudo e prática de programação em Java, focado em lógica e resolução de problemas.
+Servir como material de estudo e prática de programação em Java, focado em lógica e resolução de problemas!
 
 
